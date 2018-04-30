@@ -1,0 +1,57 @@
+#Study : OMG_test
+#Date : 20180429 15:22:38
+#Version : 6.3.5761.0
+#TestRunDate : 20180428 10:07:48.328 (+02:00)
+
+StudyName	ExportDate	Name	Age	Gender	StimulusName	SlideType	EventSource	Timestamp	MediaTime	PostMarker	Annotation	FrameNo	FrameTime	NoOfFaces	FaceRect X	FaceRect Y	FaceRect Width	FaceRect Height	Joy Evidence	Joy Intensity	Anger Evidence	Anger Intensity	Surprise Evidence	Surprise Intensity	Fear Evidence	Fear Intensity	Contempt Evidence	Contempt Intensity	Disgust Evidence	Disgust Intensity	Sadness Evidence	Sadness Intensity	Confusion Evidence	Confusion Intensity	Frustration Evidence	Frustration Intensity	Neutral Evidence	Neutral Intensity	Positive Evidence	Positive Intensity	Negative Evidence	Negative Intensity	AU1 Evidence	AU2 Evidence	AU4 Evidence	AU5 Evidence	AU6 Evidence	AU7 Evidence	AU9 Evidence	AU10 Evidence	AU12 Evidence	AU14 Evidence	AU15 Evidence	AU17 Evidence	AU18 Evidence	AU20 Evidence	AU23 Evidence	AU24 Evidence	AU25 Evidence	AU26 Evidence	AU28 Evidence	AU43 Evidence	LiveMarker	KeyStroke	MarkerText	SceneType	SceneOutput	SceneParent
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748394	66			0	67	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748427	99			1	100	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748461	133			2	133	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748494	166			3	167	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748528	200			4	200	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748561	233			5	233	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748594	266			6	267	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748627	299			7	300	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748661	333			8	333	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748694	366			9	367	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748727	399			10	400	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748761	433			11	433	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748794	466			12	467	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748828	500			13	500	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748861	533			14	533	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748894	566			15	567	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748927	599			16	600	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748961	633			17	633	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100748994	666			18	667	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749027	699			19	700	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749061	733			20	733	1	455	87	416	416	-3.20294	0	1.182913	0	-2.679468	0	-2.369771	0	-1.127557	0	0.4642992	0	-0.4408555	0	0.415491	0	0.9148787	0	-0.9754707	0	-3.20294	0	1.182913	0	-0.4603251	-1.229947	0.3377335	-1.480502	-0.1779648	-0.4335588	0.8626369	1.025342	-1.314037	-0.3568335	0.1581093	0.6934237	0.8411201	-1.276297	0.08423934	0.5458519	-2.027569	-1.781799	-2.358999	1.291388						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749094	766			21	767	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749127	799			22	800	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749161	833			23	833	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749194	866			24	867	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749227	899			25	900	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749261	933			26	933	1	457	89	392	392	-1.564905	0	0.4345677	0	-2.072161	0	-1.154677	0	-0.3789002	0	0.6307235	0	-0.1554006	0	0.08447737	0	0.4979081	0	-1.053291	0	-1.564905	0	0.6307235	0	-0.2539245	-0.8486577	0.0600299	-1.14018	0.2309292	-0.4295344	0.6687859	1.07691	-0.4963249	-0.2787114	0.331468	0.6173785	0.05359349	-0.719943	-0.2197163	0.05717049	-1.32218	-1.262517	-2.156661	0.9765592						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749294	966			27	967	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749328	1000			28	1000	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749361	1033			29	1033	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749394	1066			30	1067	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749427	1099			31	1100	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749461	1133			32	1133	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749494	1166			33	1167	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749528	1200			34	1200	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749561	1233			35	1233	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749594	1266			36	1267	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749627	1299			37	1300	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749661	1333			38	1333	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749694	1366			39	1367	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749727	1399			40	1400	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749761	1433			41	1433	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749794	1466			42	1467	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749828	1500			43	1500	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749861	1533			44	1533	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749894	1566			45	1567	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749927	1599			46	1600	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749961	1633			47	1633	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100749994	1666			48	1667	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100750027	1699			49	1700	0																																																						
+OMG_test	20180429	dce7e5d5f_10__utterance_140	0	MALE	face	TestImage	Emotient FACET	20180428_100750061	1733			50	1733	1	522	107	387	387	-1.132761	0	0.4866938	0	-1.812478	0	-1.691951	0	-0.1351265	0	0.5849903	0	-0.1557852	0	0.6249394	0	0.6716444	0	-0.4434644	0	-1.132761	0	0.5849903	0	-0.353212	-0.8705164	-0.06067913	-1.069724	0.373455	-0.165803	0.6111045	0.8738195	-0.397269	0.1389876	0.6472264	0.6615778	0.3221285	-0.70195	0.1804641	0.2664225	-1.450767	-1.220507	-1.354827	0.4656467						

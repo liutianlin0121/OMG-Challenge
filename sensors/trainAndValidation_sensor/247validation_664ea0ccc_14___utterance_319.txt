@@ -1,0 +1,52 @@
+#Study : TianlinLiuValidation
+#Date : 20180411 09:26:06
+#Version : 6.3.5761.0
+#TestRunDate : 20180325 23:25:30.704 (+02:00)
+
+StudyName	ExportDate	Name	Age	Gender	StimulusName	SlideType	EventSource	Timestamp	MediaTime	PostMarker	Annotation	FrameNo	FrameTime	NoOfFaces	FaceRect X	FaceRect Y	FaceRect Width	FaceRect Height	Joy Evidence	Joy Intensity	Anger Evidence	Anger Intensity	Surprise Evidence	Surprise Intensity	Fear Evidence	Fear Intensity	Contempt Evidence	Contempt Intensity	Disgust Evidence	Disgust Intensity	Sadness Evidence	Sadness Intensity	Confusion Evidence	Confusion Intensity	Frustration Evidence	Frustration Intensity	Neutral Evidence	Neutral Intensity	Positive Evidence	Positive Intensity	Negative Evidence	Negative Intensity	AU1 Evidence	AU2 Evidence	AU4 Evidence	AU5 Evidence	AU6 Evidence	AU7 Evidence	AU9 Evidence	AU10 Evidence	AU12 Evidence	AU14 Evidence	AU15 Evidence	AU17 Evidence	AU18 Evidence	AU20 Evidence	AU23 Evidence	AU24 Evidence	AU25 Evidence	AU26 Evidence	AU28 Evidence	AU43 Evidence	LiveMarker	KeyStroke	MarkerText	SceneType	SceneOutput	SceneParent
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232530787	83			0	83	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232530829	125			1	125	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232530870	166			2	167	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232530912	208			3	209	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232530954	250			4	250	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232530995	291			5	292	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531037	333			6	334	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531079	375			7	375	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531121	417			8	417	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531162	458			9	459	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531204	500			10	500	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531246	542			11	542	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531287	583			12	584	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531329	625			13	626	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531371	667			14	667	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531413	709			15	709	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531454	750			16	751	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531496	792			17	792	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531538	834			18	834	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531579	875			19	876	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531621	917			20	918	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531663	959			21	959	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531704	1000			22	1001	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531746	1042			23	1043	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531788	1084			24	1084	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531830	1126			25	1126	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531871	1167			26	1168	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531913	1209			27	1210	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531955	1251			28	1251	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232531996	1292			29	1293	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532038	1334			30	1335	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532080	1376			31	1376	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532122	1418			32	1418	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532163	1459			33	1460	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532205	1501			34	1501	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532247	1543			35	1543	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532288	1584			36	1585	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532330	1626			37	1627	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532372	1668			38	1668	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532414	1710			39	1710	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532455	1751			40	1752	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532497	1793			41	1793	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532539	1835			42	1835	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532580	1876			43	1877	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532622	1918			44	1919	0																																																						
+TianlinLiuValidation	20180411	664ea0ccc_14___utterance_319	0	MALE	a	TestImage	Emotient FACET	20180325_232532664	1960			45	1960	0																																																						
